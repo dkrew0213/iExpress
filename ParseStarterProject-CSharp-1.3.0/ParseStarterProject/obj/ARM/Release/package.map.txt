@@ -1,0 +1,13 @@
+[Files]
+"C:\CMU\2014 Fall\15821 Mobile and Pervasive Computing\iExpress\ParseStarterProject-CSharp-1.3.0\ParseStarterProject\bin\ARM\Release\AppxManifest.xml" "AppxManifest.xml"
+"C:\CMU\2014 Fall\15821 Mobile and Pervasive Computing\iExpress\ParseStarterProject-CSharp-1.3.0\ParseStarterProject\bin\ARM\Release\ParseStarterProject.exe" "ParseStarterProject.exe"
+"C:\CMU\2014 Fall\15821 Mobile and Pervasive Computing\iExpress\ParseStarterProject-CSharp-1.3.0\ParseStarterProject\lib\Parse.dll" "Parse.dll"
+"C:\CMU\2014 Fall\15821 Mobile and Pervasive Computing\iExpress\ParseStarterProject-CSharp-1.3.0\ParseStarterProject\lib\Parse.WinRT.dll" "Parse.WinRT.dll"
+"C:\CMU\2014 Fall\15821 Mobile and Pervasive Computing\iExpress\ParseStarterProject-CSharp-1.3.0\ParseStarterProject\Assets\Logo.png" "Assets\Logo.png"
+"C:\CMU\2014 Fall\15821 Mobile and Pervasive Computing\iExpress\ParseStarterProject-CSharp-1.3.0\ParseStarterProject\Assets\SmallLogo.png" "Assets\SmallLogo.png"
+"C:\CMU\2014 Fall\15821 Mobile and Pervasive Computing\iExpress\ParseStarterProject-CSharp-1.3.0\ParseStarterProject\Assets\SplashScreen.png" "Assets\SplashScreen.png"
+"C:\CMU\2014 Fall\15821 Mobile and Pervasive Computing\iExpress\ParseStarterProject-CSharp-1.3.0\ParseStarterProject\Assets\StoreLogo.png" "Assets\StoreLogo.png"
+"C:\CMU\2014 Fall\15821 Mobile and Pervasive Computing\iExpress\ParseStarterProject-CSharp-1.3.0\ParseStarterProject\bin\ARM\Release\App.xaml" "App.xaml"
+"C:\CMU\2014 Fall\15821 Mobile and Pervasive Computing\iExpress\ParseStarterProject-CSharp-1.3.0\ParseStarterProject\bin\ARM\Release\Common\StandardStyles.xaml" "Common\StandardStyles.xaml"
+"C:\CMU\2014 Fall\15821 Mobile and Pervasive Computing\iExpress\ParseStarterProject-CSharp-1.3.0\ParseStarterProject\bin\ARM\Release\MainPage.xaml" "MainPage.xaml"
+"C:\CMU\2014 Fall\15821 Mobile and Pervasive Computing\iExpress\ParseStarterProject-CSharp-1.3.0\ParseStarterProject\bin\ARM\Release\resources.pri" "resources.pri"
