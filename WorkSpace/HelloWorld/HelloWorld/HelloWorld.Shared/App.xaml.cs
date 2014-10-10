@@ -37,6 +37,8 @@ namespace HelloWorld
         /// </summary>
         public App()
         {
+
+
             this.InitializeComponent();
             this.Suspending += this.OnSuspending;
 
@@ -125,7 +127,7 @@ namespace HelloWorld
         {
             try
             {
-                await ParsePush.SubscribeAsync("testing");
+                await ParsePush.SubscribeAsync("global");
             }
             catch (Exception x)
             {

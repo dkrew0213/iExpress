@@ -161,7 +161,7 @@ namespace HelloWorld
                     Debug.WriteLine("Trigger execution!!!!!!!!");
                     (sender as Button).Background = new ImageBrush { ImageSource = new BitmapImage(new Uri("ms-appx:///Assets/Sent.png")) };
                     Button but = (sender as Button);
-                    String message = "Neil::"+but.Content.ToString();
+                    String message = "Neil -- "+but.Content.ToString();
 
                     //var push = new ParsePush();
                     //push.Channels = new List<string> { "Giants" };
@@ -175,7 +175,11 @@ namespace HelloWorld
 
                     ParsePush push = new ParsePush();
                     push.Channels = new List<String> { "global" };
-                    push.Alert = message;
+                //    push.Alert = message;
+                    IDictionary<string, object> dic = new Dictionary<string, object>();
+                    dic.Add("sound", ".");
+                    dic.Add("alert", message);
+                    push.Data = dic;                      
                     push.SendAsync();
 
 
